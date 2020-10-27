@@ -1,4 +1,4 @@
-﻿#BAT 仅仅是方便双击启动，同时ps运行会有Set-ExecutionPolicy红色提示，无它
+﻿#BAT调用此ps， 仅仅是方便双击启动，同时ps运行会有Set-ExecutionPolicy红色提示，无它
 #中国和国外版本通过正常安装后分别重命名，可直接替换。
 #累，linyiyao@20201027
 
